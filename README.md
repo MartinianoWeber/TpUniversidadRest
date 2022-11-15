@@ -73,7 +73,7 @@ Para el body irian los siguientes items:
 | `estacionamiento`      | `number`
 
 
-## Detalles de las FK enviar y modificar vehiculos.
+## Detalles de las FK para enviar y modificar vehiculos.
 Tabla de estacionamiento(Existentes)
 | id | Tipo     
 | :-------- | :------- 
@@ -81,7 +81,7 @@ Tabla de estacionamiento(Existentes)
 | `5`      | `number` 
 
 Tabla de cliente(Existentes)
-| id | Nombre     
+| id | Tipo     
 | :-------- | :------- 
 | `1`      | `number` 
 | `2`      | `number` 
